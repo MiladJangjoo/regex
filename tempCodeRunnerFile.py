@@ -1,0 +1,1 @@
+print(one_st(data))
